@@ -31,7 +31,7 @@ const FAQPage = () => {
 
         <LayoutWrapperMain className={css.staticPageWrapper}>
 
-          <h1>Have questions? We're here to help!.</h1>
+          <h1>Have questions? We're here to help!</h1>
 
           <div className={css.contentWrapper}>
             <h2>General Questions</h2>
